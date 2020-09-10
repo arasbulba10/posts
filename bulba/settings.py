@@ -25,7 +25,7 @@ SECRET_KEY = '&!g3oycl4-34az(bcnh419p7u73v960n2_849av$-up5plp+ax'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['arasbulba.pythonanywhere.com']
 
 
 # Application definition
